@@ -66,4 +66,21 @@ footer {
 /* contact */
 #contact {
   background: url(../images/video-bg4.png) 50% 0 repeat-y fixed;
+	color: #FFFFFF;
+}
+
+#contact .overlay{
+	background: rgba(3,3,3,0.4);
+}
+
+#contact input::-webkit-input-placeholder,#contact textarea::-webkit-input-placeholder{
+	color: #FFFFFF;
+}
+
+#contact input::-moz-placeholder,#contact textarea::-moz-placeholder{
+	color: #FFFFFF;
+}
+
+#contact input::-ms-input-placeholder,#contact textarea::-ms-input-placeholder{
+	color: #FFFFFF;
 }
