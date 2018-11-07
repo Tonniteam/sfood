@@ -1,8 +1,8 @@
 /* all */
-#about, #feature, #video, #menu, #team, #gallery, #contact{
-	padding: 80px 0 80px;
+/* #about, #feature, #video, #menu, #team, #gallery, #contact{
+	padding: 20px 0 20px;
 }
-
+ */
 /* replenish files */
 .lang-btn{
 	width: 25%;
@@ -32,6 +32,15 @@
 
 .flex-control-nav{
 	bottom: 30px;
+}
+
+/* about */
+.flex-control-paging li a{
+	background: rgba(255,255,255,0.4);
+}
+
+.flex-control-paging li a.flex-active{
+	background: #FFA500;
 }
 
 /* video */
