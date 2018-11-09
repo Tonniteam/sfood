@@ -35,6 +35,10 @@
 }
 
 /* about */
+/* #about{
+	padding: 4vw 0 4vw;
+} */
+
 .flex-control-paging li a{
 	background: rgba(255,255,255,0.4);
 }
@@ -62,9 +66,9 @@ footer {
 	background: #c21500; /* fallback for old browsers */  
 	background: -webkit-linear-gradient(to left, #c21500 , #ffc500); /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(to left, #c21500 , #ffc500);
-    color: #FFFFFF;
-    padding-top: 100px;
-    padding-bottom: 100px;
+	color: #FFFFFF;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 
 /* vedio */
@@ -93,3 +97,7 @@ footer {
 #contact input::-ms-input-placeholder,#contact textarea::-ms-input-placeholder{
 	color: #FFFFFF;
 }
+
+
+/* response */
+
