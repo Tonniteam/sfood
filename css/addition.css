@@ -1,8 +1,20 @@
 /* all */
-/* #about, #feature, #video, #menu, #team, #gallery, #contact{
-	padding: 20px 0 20px;
+/* eng-thai fonts */
+@font-face {
+  font-family: 'futuraeng';
+  src: url('../fonts/FuturaNDAlt-Bold.ttf');
 }
- */
+
+@font-face {
+  font-family: laongdaothai;
+  src: url(../fonts/JS-Laongdao-Bold.ttf);
+}
+
+#about, #feature, #video, #menu, #team, #gallery, #contact{
+			padding-top: 80px;
+			padding-bottom: 80px;
+}
+
 /* replenish files */
 .lang-btn{
 	width: 25%;
@@ -14,6 +26,7 @@
 }
 
 /* navibar */
+
 .navbar{
 	background: #c21500; /* fallback for old browsers */  
 	background: -webkit-linear-gradient(to left, #c21500 , #ffc500); /* Chrome 10-25, Safari 5.1-6 */
@@ -23,6 +36,39 @@
 
 #navi a{
 	color: white;
+}
+
+#logo-img{
+	float: left;
+	height: 100px;
+	width: 380px;
+	margin: 5px;
+}
+
+.navbar-brand{
+	padding: 0;
+	width: 450px;
+}
+
+#eng-name{
+	padding-top: 28px;
+	display: inline-block;
+	/* border: 1px solid red; */
+	/* font-family: futuraeng; */
+}
+
+.navbar-default .navbar-brand{
+	font-size: 20px;
+	line-height: initial;
+}
+
+.navbar-default .navbar-nav li a{
+	line-height: 80px;
+}
+
+.navbar-nav>li>a{
+	padding-top: 15px;
+	padding-bottom: 15px;
 }
 
 /* story */
@@ -100,4 +146,69 @@ footer {
 
 
 /* response */
+/* .navbar-header,.navbar-collapse,.navbar-nav{
+	border: 1px solid red;
+} */
 
+@media screen and (max-width:992px){
+	.navbar-brand{
+		padding: 0;
+		width: 304px;
+	}
+	
+	#logo-img {
+    height: 80px;
+    width: 304px;
+	}
+	
+	.navbar-default .navbar-nav li a{
+		line-height: 60px;
+	}
+	
+	.navbar-nav>li>a{
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+	
+	#about, #feature, #video, #menu, #team, #gallery, #contact{
+		padding-top: 60px;
+    padding-bottom: 60px;
+	}
+	
+}
+
+@media screen and (max-width:768px){
+		.navbar-toggle{
+			margin-top: 28px;
+			margin-bottom: 28px;
+		}
+		
+		#about, #feature, #video, #menu, #team, #gallery, #contact{
+			padding-top: 40px;
+			padding-bottom: 40px;
+		}
+}
+
+@media screen and (max-width:400px){
+		.navbar-toggle{
+			margin-top: 18px;
+			margin-bottom: 18px;
+		}
+		
+		.navbar-brand{
+			padding: 0;
+			width: 251px;
+		}
+		
+		#logo-img {
+			margin: 2px;
+			height: 66px;
+			width: 251px;
+		}
+		
+		#about, #feature, #video, #menu, #team, #gallery, #contact{
+			padding-top: 20px;
+			padding-bottom: 20px;
+		}
+			
+}
