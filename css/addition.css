@@ -185,6 +185,17 @@ footer {
 	
 }
 
+@media screen and (max-width:981px) {
+	#home img{
+		width: 180px;
+	}
+	
+	#home h1{
+		font-size: 70px;
+	}
+}
+
+
 @media screen and (max-width:768px){
 		.navbar-toggle{
 			margin-top: 28px;
@@ -196,6 +207,34 @@ footer {
 			padding-bottom: 40px;
 		}
 }
+
+
+@media screen and (max-width:550px) {
+	#home img{
+		width: 160px;
+	}
+	
+	#home h1{
+		font-size: 60px;
+	}
+}
+
+@media screen and (max-width:550px) {
+	#home img{
+		width: 150px;
+	}
+	
+	#home h1{
+		font-size: 40px;
+	}
+	
+	#home .lang-btn{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
+}
+
 
 @media screen and (max-width:400px){
 		.navbar-toggle{
@@ -218,5 +257,9 @@ footer {
 			padding-top: 20px;
 			padding-bottom: 20px;
 		}
-			
+		
+		#home p{
+			font-size: 14px;
+		}
+				
 }
