@@ -10,6 +10,15 @@
   src: url(../fonts/JS-Laongdao-Bold.ttf);
 }
 
+/* 字体颜色设定 font color */
+.orange{
+	color: orangered;
+}
+
+.blue{
+	color: #16FAFB;
+}
+
 #about, #feature, #video, #menu, #team, #gallery, #contact{
 			padding-top: 80px;
 			padding-bottom: 80px;
@@ -74,9 +83,23 @@
 /* story */
 #intro p{
 	text-align: justify;
-	/* font-size: 15px; */
+	font-size: 15px;
 	font-weight: 400;
 	word-spacing: -0.1em;
+}
+
+#intro ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#intro ul li{
+	background-color: orangered;
+	color: whitesmoke;
+	margin: 10px 0 10px;
+	padding: 10px;
+	font-weight: 500;
 }
 
 .flexslider{
@@ -88,7 +111,24 @@
 }
 
 /* about */
+#about-head{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
 
+.about-sec{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.about-sec .row div>div{
+	padding: 10px;
+}
+
+#mid-div{
+	background: rgb(240,240,240);
+}
 /* #about{
 	padding: 4vw 0 4vw;
 } */
