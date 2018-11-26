@@ -9,6 +9,11 @@
   font-family: laongdaothai;
   src: url(../fonts/JS-Laongdao-Bold.ttf);
 }
+/* 引导页logo */
+.intropage-logo{
+		width: 220px;
+		/* height: 200px; */
+}
 
 /* 字体颜色设定 font color */
 .orange{
