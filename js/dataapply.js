@@ -45,7 +45,7 @@ function applyData(page, offset, sel_tag){
 			//02.显示
 			for(var i=0; i<res.length; i++){
 				//1. 创建一个最外部对象iosbox
-				var $iosbox = $("<div class='iso-box col-md-4 col-sm-6'></div>");
+				var $iosbox = $("<div class='iso-box col-md-3 col-sm-6'></div>");
 				//2. 获取分类数据, 添加分类
 				var cls_arr = res[i].cls.split('+');
 				for(var j=0; j<cls_arr.length; j++){
@@ -86,7 +86,65 @@ function applyData(page, offset, sel_tag){
 				//14. 加入到iso-box-wrapper
 				$('.iso-box-wrapper').append($iosbox);
 			}
+			
+			//初始化iso-box
+			initIsobox();
+			
+			$('#gallery .col-md-3 a').nivoLightbox({
+				effect: 'fadeScale',
+			});
 	})
+}
+
+//显示数据今日iso-box
+function initIsobox(){
+	
+	if ( $('.iso-box-wrapper').length > 0 ) { 
+	
+	      var $container  = $('.iso-box-wrapper'), 
+	        $imgs     = $('.iso-box img');
+	
+	      $container.imagesLoaded(function () {
+	
+	        $container.isotope({
+	        layoutMode: 'fitRows',
+	        itemSelector: '.iso-box'
+	        });
+	
+	        $imgs.load(function(){
+	          $container.isotope('reLayout');
+	        })
+	
+	      });
+	
+	      //filter items on button click
+	
+	      $('.filter-wrapper li a').click(function(){
+	
+	          var $this = $(this), filterValue = $this.attr('data-filter');
+	
+						$container.isotope({ 
+							filter: filterValue,
+							animationOptions: { 
+									duration: 750, 
+									easing: 'linear', 
+									queue: false, 
+							}                
+	      });             
+	
+	      // don't proceed if already selected 
+	
+	      if ( $this.hasClass('selected') ) { 
+	        return false; 
+	      }
+	
+	      var filter_wrapper = $this.closest('.filter-wrapper');
+	      filter_wrapper.find('.selected').removeClass('selected');
+	      $this.addClass('selected');
+	
+	        return false;
+	      }); 
+	}
 }
 
 // 显示数据函数
