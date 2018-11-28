@@ -10,7 +10,7 @@ var small_img_path = "../images/allfood/compress-ew/";
 //图片类型
 var imageType = ".jpg";
 //当前语言选择
-var lang = 'en';
+// var lang = 'en';
 
 
 // 请求数据实例
@@ -34,6 +34,8 @@ window.onload = function(){
 
 // 请求数据函数
 function applyData(page, offset, sel_tag){
+	var lang = $('#sel-lang').attr('class');
+	console.log(lang);
 	$.getJSON('../json/allimg.json', function (res){
 			//获取一个数组
 			//console.log(res);
@@ -79,7 +81,14 @@ function applyData(page, offset, sel_tag){
 				$a_origin.append($galleryoverlay);
 				//12. 创建标题标签
 				var $titleh2 = $('<h3></h3>');
-				var titlecontent = res[i].english;
+				var titlecontent = "";
+				if(lang == "cn"){
+					titlecontent = res[i].chinese;
+				}else if(lang == 'en'){
+					titlecontent = res[i].english;
+				}else if(lang == 'th'){
+					titlecontent = res[i].thai;
+				}
 				$titleh2.text(titlecontent);
 				//13. 加入iosbox
 				$iosbox.append($titleh2);
@@ -90,6 +99,7 @@ function applyData(page, offset, sel_tag){
 			//初始化iso-box
 			initIsobox();
 			
+			//相册初始化gallery
 			$('#gallery .col-md-3 a').nivoLightbox({
 				effect: 'fadeScale',
 			});
