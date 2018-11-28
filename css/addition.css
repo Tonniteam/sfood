@@ -159,6 +159,26 @@
     background-color: #ffa000;
 }
 
+/* location */
+#location-head{
+	padding-bottom: 0px;
+	padding-top: 50px;
+	text-align: center;
+}
+
+.location-map{
+	text-align: center;
+}
+
+.location-map h4{
+	font-size: 20px;
+}
+
+/* menu */
+.vertical-img{
+	
+}
+
 /* footer */
 footer {
     /* background-color: #141414; */
@@ -197,9 +217,9 @@ footer {
 	color: #FFFFFF;
 }
 
-.location-map{
+/* .location-map{
 	padding: 20px 0 20px;
-}
+} */
 
 
 /* response */
