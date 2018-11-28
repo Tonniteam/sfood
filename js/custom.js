@@ -47,13 +47,13 @@ jQuery(document).ready(function($){
 
           var $this = $(this), filterValue = $this.attr('data-filter');
 
-      $container.isotope({ 
-        filter: filterValue,
-        animationOptions: { 
-            duration: 750, 
-            easing: 'linear', 
-            queue: false, 
-        }                
+					$container.isotope({ 
+						filter: filterValue,
+						animationOptions: { 
+								duration: 750, 
+								easing: 'linear', 
+								queue: false, 
+						}                
       });             
 
       // don't proceed if already selected 

@@ -4,8 +4,8 @@
 	"thai": "กุ้งมังกร ซาซิมิ",
 	"english": "SASHIMI LIVE RAINBOW LOBSTER",
 	"chinese": "刺身珍珠龙虾",
-	"price": " 4,900 ",
-	"class": " cr+sf+sfr ",
+	"price": "4,900",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 2,
@@ -13,8 +13,8 @@
 	"thai": "กั้งแก้วทอดกระเทียม",
 	"english": "ALMOND GARLIC WITH PHI PHI PRAWN",
 	"chinese": "避风塘濑尿虾",
-	"price": " 3,600 ",
-	"class": " cr+sf+sfr ",
+	"price": "3,600",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 3,
@@ -22,8 +22,8 @@
 	"thai": "หูฉลามน้ำแดง (แผ่นใหญ่)",
 	"english": "KING BROTH SHARKFIN",
 	"chinese": "红烧大鲍翅",
-	"price": " 4,800 ",
-	"class": " cr+sf+sfr ",
+	"price": "4,800",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 4,
@@ -31,8 +31,8 @@
 	"thai": "เป่าฮื้อน้ำแดง",
 	"english": "BRAISED DOUBLE HEAD ABALONE WITH JAPANESE MUSHROOM",
 	"chinese": "车轮鲍鱼伴北菇西兰花",
-	"price": " 2,800 ",
-	"class": " cr+sf+sfr ",
+	"price": "2,800",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 5,
@@ -40,8 +40,8 @@
 	"thai": "หม้อดินอีผิง",
 	"english": "YI PING POT",
 	"chinese": "辉煌金盆一品锅",
-	"price": " 3,800 ",
-	"class": " sf ",
+	"price": "3,800",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 6,
@@ -49,8 +49,8 @@
 	"thai": "หูฉลามหม้อดิน (แผ่นเล็ก)",
 	"english": "CLAYPOT SHARKFIN WITH CRAB MEAT",
 	"chinese": "金钩翅蟹肉煲",
-	"price": " 3,000 ",
-	"class": " sf ",
+	"price": "3,000",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 7,
@@ -58,8 +58,8 @@
 	"thai": "กุ้งมังกรครีมสลัด",
 	"english": "GOLDEN PUMPKIN SAUCE LOBSTER",
 	"chinese": "黄金酱龙虾",
-	"price": " 4,500 ",
-	"class": " cr+sf+sfr ",
+	"price": "4,500",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 8,
@@ -67,8 +67,8 @@
 	"thai": "กั้งกระดานย่างเกลือ",
 	"english": "SALTED PI PA PRAWN THAI STYLE\/BUTTER",
 	"chinese": "琵琶虾",
-	"price": " 900 ",
-	"class": " sf ",
+	"price": "900",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 9,
@@ -76,8 +76,8 @@
 	"thai": "กั้งแก้วพริกเกลือ",
 	"english": "SALT&PEPPER WITH PHI PHI PRAWN",
 	"chinese": "椒盐濑尿虾",
-	"price": " 3,600 ",
-	"class": " sf ",
+	"price": "3,600",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 10,
@@ -85,8 +85,8 @@
 	"thai": "กุ้งล็อบสเตอร์ 4 เมนู",
 	"english": "BOSTON LOBSTER STEAM SOYA\/FIRED WITH GINGER AND SPRING ONION\/BRAISED NOODLE\/SALT&PEPPER",
 	"chinese": "波斯顿龙虾",
-	"price": " 2,500 ",
-	"class": "",
+	"price": "2,500",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 11,
@@ -94,8 +94,8 @@
 	"thai": "กุ้งมังกรอบยอดซุป",
 	"english": "KING BROTH WITH LIVE LOBSTER",
 	"chinese": "上汤焗游水龙",
-	"price": " MARKET PRICE ",
-	"class": " cr+sf+sfr ",
+	"price": "MARKET PRICE",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 12,
@@ -103,8 +103,8 @@
 	"thai": "กุ้งมังกรซอสโฮมเมด",
 	"english": "HOME MADE DRESSING WITH LIVE LOBSTER",
 	"chinese": "葡京酱海龙",
-	"price": " 4,500 ",
-	"class": " sf ",
+	"price": "4,500",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 13,
@@ -112,8 +112,8 @@
 	"thai": "หอยงวงช้าง (ย่าง\/ซาซิมิ)",
 	"english": "GEODUCK",
 	"chinese": "刺身象牙蚌",
-	"price": " MARKET PRICE ",
-	"class": "",
+	"price": "MARKET PRICE",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 14,
@@ -121,8 +121,8 @@
 	"thai": "ซัมป้าล่า ล่า",
 	"english": "SAMBA LALA",
 	"chinese": "叁吧啦啦",
-	"price": " 350 ",
-	"class": "",
+	"price": "350",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 15,
@@ -130,8 +130,8 @@
 	"thai": "กุ้งต้มเกลือ",
 	"english": "POACHED FRESH WATER PRAWNS",
 	"chinese": "白灼虾",
-	"price": " 500 ",
-	"class": "",
+	"price": "500",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 16,
@@ -139,8 +139,8 @@
 	"thai": "กุ้งแช่เหล้า",
 	"english": "GAO LIANG DRUNKEN PRAWN",
 	"chinese": "高粱酒药材虾",
-	"price": " 500 ",
-	"class": "",
+	"price": "500",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 17,
@@ -148,17 +148,17 @@
 	"thai": "กุ้งมังกรย่างกระเทียม",
 	"english": "THAI STYLE GRILLED LIVE LOBSTER WITH GARLIC",
 	"chinese": "泰式蒜蓉烤青龙",
-	"price": " 4,500 ",
-	"class": " sf ",
+	"price": "4,500",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 18,
 	"nu": 18,
 	"thai": "กุ้งมังกรย่างเกลือ",
-	"english": "THAI STYLE GRILLED LIVE LOBSTER ",
+	"english": "THAI STYLE GRILLED LIVE LOBSTER",
 	"chinese": "泰式烤青龙",
-	"price": " 4,500 ",
-	"class": " cr+sf+sfr ",
+	"price": "4,500",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 19,
@@ -166,8 +166,8 @@
 	"thai": "กุ้งมังกรนึ่งซอสกระเทียม",
 	"english": "STEAM LIVE LOBSTER WITH GARLIC SAUCE",
 	"chinese": "蒜蓉蒸海龙",
-	"price": " 4,500 ",
-	"class": " sf ",
+	"price": "4,500",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 20,
@@ -175,8 +175,8 @@
 	"thai": "กุ้งลายเสือนึ่งซีอิ๊วกระเทียม",
 	"english": "THAI STYLE STEAM GARLIC WITH PRAWNS",
 	"chinese": "蒜蓉蒸老虎虾",
-	"price": " 1,500 ",
-	"class": " sf ",
+	"price": "1,500",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 21,
@@ -184,8 +184,8 @@
 	"thai": "กุ้งเผา",
 	"english": "SHRIMP RIVER GRILLED",
 	"chinese": "烤河虾",
-	"price": " MARKET PRICE ",
-	"class": " sf ",
+	"price": "MARKET PRICE",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 22,
@@ -193,8 +193,8 @@
 	"thai": "กุ้งแชบ๊วยทะเลต้มเกลือ",
 	"english": "SCALD SALTED PRAWNS",
 	"chinese": "盐灼虾",
-	"price": " 1,300 ",
-	"class": " sf ",
+	"price": "1,300",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 23,
@@ -202,8 +202,8 @@
 	"thai": "กระทงกุ้ง",
 	"english": "TARO RING WITH PRAWN",
 	"chinese": "佛体飘香",
-	"price": " 550 ",
-	"class": "",
+	"price": "550",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 24,
@@ -211,8 +211,8 @@
 	"thai": "กุ้งลายเสือ ย่างเกลือ\/เนยกระเทียม",
 	"english": "GRILLED PRAWN",
 	"chinese": "烤虾",
-	"price": " MARKET PRICE ",
-	"class": " sf ",
+	"price": "MARKET PRICE",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 25,
@@ -220,8 +220,8 @@
 	"thai": "ต้มยำกุ้ง",
 	"english": "PRAWN SPICY LEMONGRASS SOUP (TOM YAM KUNG)",
 	"chinese": "冬阳功汤",
-	"price": " 600 ",
-	"class": "",
+	"price": "600",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 26,
@@ -229,8 +229,8 @@
 	"thai": "กุ้งแช่น้ำปลา",
 	"english": "LIVE SHRIMP WITH BITTER MELON SALAD",
 	"chinese": "味露鲜虾",
-	"price": " 250 ",
-	"class": " sf ",
+	"price": "250",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 27,
@@ -238,8 +238,8 @@
 	"thai": "กุ้งอบวุ้นเส้น",
 	"english": "PRAWNS WITH GLASS NOODLE IN OYSTER SAUCE",
 	"chinese": "粉丝虾煲",
-	"price": " 500 ",
-	"class": " sf ",
+	"price": "500",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 28,
@@ -247,8 +247,8 @@
 	"thai": "ปูอลาสก้า 3 เมนู",
 	"english": "ALASKA KING CRAB 3 TYPES COOK",
 	"chinese": "阿拉斯加蟹三味",
-	"price": " 4,900 ",
-	"class": " cr+sf+sfr ",
+	"price": "4,900",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 29,
@@ -256,8 +256,8 @@
 	"thai": "ปูอลาสก้าทอดผัดพริกเกลือ",
 	"english": "ALASKA CRAB WITH ALMOND SALTED PEPPER",
 	"chinese": "椒盐阿拉斯加蟹",
-	"price": " 4,900 ",
-	"class": " cr+sf+sfr ",
+	"price": "4,900",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 30,
@@ -265,8 +265,8 @@
 	"thai": "ปูผัดพริกไทยสิงคโปร์",
 	"english": "SINGAPORE STYLE WHITE PEPPER CRAB",
 	"chinese": "狮城白胡椒螃蟹",
-	"price": " 1,800 ",
-	"class": " cr+sf+sfr ",
+	"price": "1,800",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 31,
@@ -274,8 +274,8 @@
 	"thai": "ปูผัดพริกไทยดำ",
 	"english": "SINGAPORE BLACK PEPPER CRAB",
 	"chinese": "新加坡招牌黑椒蟹",
-	"price": " 1,800 ",
-	"class": " cr+sf+sfr ",
+	"price": "1,800",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 32,
@@ -283,8 +283,8 @@
 	"thai": "ปูผัดพริกสิงคโปร์",
 	"english": "SINGAPORE STYLE CHILLI CRAB",
 	"chinese": "新加坡辣椒蟹",
-	"price": " 1,800 ",
-	"class": " cr+sf+sfr ",
+	"price": "1,800",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 33,
@@ -292,8 +292,8 @@
 	"thai": "ปูผัดเกลืออัลมอนด์",
 	"english": "ALMOND SALTED GARLIC CRAB",
 	"chinese": "避风塘螃蟹",
-	"price": " 1,800 ",
-	"class": " sf ",
+	"price": "1,800",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 34,
@@ -301,8 +301,8 @@
 	"thai": "ปูผัดไข่เค็ม",
 	"english": "CRAB WITH SALTED EGG CREAM",
 	"chinese": "黄金螃蟹",
-	"price": " 1,800 ",
-	"class": " sf ",
+	"price": "1,800",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 35,
@@ -310,8 +310,8 @@
 	"thai": "ปูผัดผงกะหรี่",
 	"english": "CURRY CRAB",
 	"chinese": "咖喱蟹",
-	"price": " 1,800 ",
-	"class": " cr+sf+sfr ",
+	"price": "1,800",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 36,
@@ -319,8 +319,8 @@
 	"thai": "ปูผัดผักกระเฉด",
 	"english": "FRIED CRAB WITH MIMOSA",
 	"chinese": "含羞草炒螃蟹",
-	"price": " 1,800 ",
-	"class": " sf ",
+	"price": "1,800",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 37,
@@ -328,8 +328,8 @@
 	"thai": "ปูอบวุ้นเส้น",
 	"english": "CRAB WITH VERMICELLI",
 	"chinese": "粉丝螃蟹",
-	"price": " 1,800 ",
-	"class": "",
+	"price": "1,800",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 38,
@@ -337,8 +337,8 @@
 	"thai": "หอยหลอดไม้ไผ่นึ่งวุ้นเส้น",
 	"english": "STEAM BAMBOO CLAM WITH VERMIRCELLI",
 	"chinese": "粉丝蒸竹蚌",
-	"price": " 280 ",
-	"class": "",
+	"price": "280",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 39,
@@ -346,8 +346,8 @@
 	"thai": "หอยนางรมสด\/เนยกระเทียม\/พริกเกลือ",
 	"english": "LIVE OYSTER\/GRILLED OYSTER&\/BUTTER&GARLIC\/SALT&PEPPER",
 	"chinese": "生蚝",
-	"price": " 100 ",
-	"class": " sf ",
+	"price": "100",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 40,
@@ -355,8 +355,8 @@
 	"thai": "หอยเชลล์2สไตล์\/เนยกระเทียม\/ซอสคุสึจัง",
 	"english": "TWO TYPE LIVE SCALLOP",
 	"chinese": "两味扇贝",
-	"price": " 380 ",
-	"class": " sf ",
+	"price": "380",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 41,
@@ -364,8 +364,8 @@
 	"thai": "หอยลายผัดพริกเผา",
 	"english": "FLOWER CLAM WITH SWEET BASIL LEAF",
 	"chinese": "泰式炒花甲",
-	"price": " 250 ",
-	"class": " cr+sf+sfr ",
+	"price": "250",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 42,
@@ -373,8 +373,8 @@
 	"thai": "หอยแมลงภู่นิวซีแลนด์อบหม้อดิน",
 	"english": "NEW ZEALAND MUSSEL WITH CLAYPOT SALTED",
 	"chinese": "清蒸新西兰扇贝",
-	"price": " 500 ",
-	"class": " cr+sf+sfr ",
+	"price": "500",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 43,
@@ -382,8 +382,8 @@
 	"thai": "หอยแมลงภู่นิวซีแลนด์ย่างเนยกระเทียม",
 	"english": "BAKED MUSSELS NEW ZEALAND GRILL WITH BUTTER AND GARLIC",
 	"chinese": "烤纽西兰扇贝",
-	"price": " 500 ",
-	"class": "",
+	"price": "500",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 44,
@@ -391,8 +391,8 @@
 	"thai": "ปลาหมึกย่างซอส",
 	"english": "SALT GRILLED SQUID",
 	"chinese": "盐烤鱿鱼",
-	"price": " 300 ",
-	"class": "",
+	"price": "300",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 45,
@@ -400,8 +400,8 @@
 	"thai": "ปลาเก๋าแดงนึ่งขิง",
 	"english": "STEAM RED GROUPER WITH GINGER",
 	"chinese": "姜蓉蒸海斑",
-	"price": " MARKET PRICE ",
-	"class": "",
+	"price": "MARKET PRICE",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 46,
@@ -409,8 +409,8 @@
 	"thai": "ปลาเก๋าซอสฟักทอง",
 	"english": "GROUPER PUMPKIN SAUCE",
 	"chinese": "金瓜酱黑斑鱼",
-	"price": " MARKET PRICE ",
-	"class": "",
+	"price": "MARKET PRICE",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 47,
@@ -418,8 +418,8 @@
 	"thai": "ปลาเก๋าแดงนึ่งกระเทียม",
 	"english": "LIVE STAR GROUPER WITH GARLIC SAUCE",
 	"chinese": "蒜蓉蒸七星斑",
-	"price": " MARKET PRICE ",
-	"class": " sf ",
+	"price": "MARKET PRICE",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 48,
@@ -427,8 +427,8 @@
 	"thai": "ปลาหิมะนึ่งซีอิ๊ว",
 	"english": "STEAM NORWAY SEABASS WITH HOME MADE SOYA SAUCE",
 	"chinese": "清蒸鳕鱼",
-	"price": " 1,600 ",
-	"class": " cr+sf+sfr ",
+	"price": "1,600",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 49,
@@ -436,8 +436,8 @@
 	"thai": "ปลาบู่ทอดราดซีอิ๊ว",
 	"english": "DEEP FRIED FRESH GOBY FISH",
 	"chinese": "油泡顺壳鱼",
-	"price": " 1,800 ",
-	"class": " sf ",
+	"price": "1,800",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 50,
@@ -445,8 +445,8 @@
 	"thai": "ปลาเก๋าแดงฮ่องกงนึ่งซีอิ๊ว",
 	"english": "HONG KONG STYLE STEAM DEEPSEA GROUPER",
 	"chinese": "香港蒸深海星班",
-	"price": " MARKET PRICE ",
-	"class": " sf ",
+	"price": "MARKET PRICE",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 51,
@@ -454,8 +454,8 @@
 	"thai": "ปลากะพงนึ่งมะนาว",
 	"english": "THAI STYLE STEAM SEABASS",
 	"chinese": "泰式柠檬鱼",
-	"price": " 680 ",
-	"class": " sf ",
+	"price": "680",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 52,
@@ -463,8 +463,8 @@
 	"thai": "ปลากะพงทอดน้ำปลา",
 	"english": "LOCAL STYLE FRIED SEABASS",
 	"chinese": "地道脆炸金目鲈",
-	"price": " 680 ",
-	"class": " sf ",
+	"price": "680",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 53,
@@ -472,8 +472,8 @@
 	"thai": "ปลากะพงเผาย่างเกลือ",
 	"english": "SALTED BAKED OCEAN SEABASS",
 	"chinese": "盐烧海鲈鱼",
-	"price": " MARKET PRICE ",
-	"class": " sf ",
+	"price": "MARKET PRICE",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 54,
@@ -481,8 +481,8 @@
 	"thai": "ปลาเก๋านึ่งแต้จิ๋ว",
 	"english": "TEOW CHEW STEAM STAR GROUPER",
 	"chinese": "潮州蒸海星班",
-	"price": " MARKET PRICE ",
-	"class": "",
+	"price": "MARKET PRICE",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 55,
@@ -490,8 +490,8 @@
 	"thai": "ปลาเก๋าสามรส",
 	"english": "GROUPER IN SWEET&SOUR SAUCE",
 	"chinese": "糖醋老虎斑",
-	"price": " 1,800 ",
-	"class": "",
+	"price": "1,800",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 56,
@@ -499,8 +499,8 @@
 	"thai": "ปลากะพงนึ่งพริกดอง",
 	"english": "PICKLED CHILLI WITH SEA BASS",
 	"chinese": "剁椒金目鲈鱼",
-	"price": " 680 ",
-	"class": "",
+	"price": "680",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 57,
@@ -508,8 +508,8 @@
 	"thai": "เป็ดย่างภัตตาคารห้วยขวาง",
 	"english": "HUAI KHWANG ROASTED FATTY DUCK",
 	"chinese": "辉煌烤肥鸭",
-	"price": " 1,380 ",
-	"class": " cr+spf ",
+	"price": "1,380",
+	"cls": "cr+spf",
 	"img": 1
 }, {
 	"id": 58,
@@ -517,8 +517,8 @@
 	"thai": "ลิ้นเป็ดเต้าหู้ซอสแดง",
 	"english": "TONGUE DUCK WITH TOFU",
 	"chinese": "卤水鸭舌伴豆腐",
-	"price": " 400 ",
-	"class": " cr+spf ",
+	"price": "400",
+	"cls": "cr+spf",
 	"img": 1
 }, {
 	"id": 59,
@@ -526,8 +526,8 @@
 	"thai": "ไก่บ้านตุ๋นยาจีน",
 	"english": "CHICKEN WITH HERD",
 	"chinese": "金盆药材鸡",
-	"price": " 880 ",
-	"class": " cr+spf ",
+	"price": "880",
+	"cls": "cr+spf",
 	"img": 1
 }, {
 	"id": 60,
@@ -535,8 +535,8 @@
 	"thai": "ปีกไก่กลางทอดกรอบ",
 	"english": "CRISPY CHICKEN",
 	"chinese": "金牌烧鸡",
-	"price": " 880 ",
-	"class": "",
+	"price": "880",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 61,
@@ -544,8 +544,8 @@
 	"thai": "สลัดโปเตโต้",
 	"english": "POTATO SALAD",
 	"chinese": "土豆沙律",
-	"price": " 220 ",
-	"class": "",
+	"price": "220",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 62,
@@ -553,8 +553,8 @@
 	"thai": "ลิ้นเป็ดผัดพริกเกลือ",
 	"english": "TONGUE DUCK WITH SALT PEPPER",
 	"chinese": "椒盐鸭舌",
-	"price": " 400 ",
-	"class": "",
+	"price": "400",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 63,
@@ -562,8 +562,8 @@
 	"thai": "สะโพกไก่ทอดกระเทียม",
 	"english": "FRIED CHICKEN WITH GARLIC",
 	"chinese": "蒜香鸡",
-	"price": " 350 ",
-	"class": "",
+	"price": "350",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 64,
@@ -571,8 +571,8 @@
 	"thai": "ซี่โครงหมูทอดกระเทียม",
 	"english": "SIGNATURE PORK RIB WITH GARLIC",
 	"chinese": "金牌蒜香骨",
-	"price": " 350 ",
-	"class": " cr+spf ",
+	"price": "350",
+	"cls": "cr+spf",
 	"img": 1
 }, {
 	"id": 65,
@@ -580,8 +580,8 @@
 	"thai": "ปีกไก่กลางทอดภัตตาคารห้วยขวาง",
 	"english": "BABY CHICKEN WING",
 	"chinese": "脆炸鸡中翅",
-	"price": " 320 ",
-	"class": "",
+	"price": "320",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 66,
@@ -589,8 +589,8 @@
 	"thai": "เนื้อแกะนิวซีแลนด์ผัดซอสพริกไทยดำ",
 	"english": "NEW ZEALAND LAMB RACK WITH BLACK PEPPER SAUCE",
 	"chinese": "黑椒纽西兰羊排",
-	"price": " 1,200 ",
-	"class": " cr+spf ",
+	"price": "1,200",
+	"cls": "cr+spf",
 	"img": 1
 }, {
 	"id": 67,
@@ -598,8 +598,8 @@
 	"thai": "หมั่นโถวภัตตาคารห้วยขวาง",
 	"english": "BUN PORK BELLY",
 	"chinese": "馒头扣肉",
-	"price": " 350 ",
-	"class": "",
+	"price": "350",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 68,
@@ -607,8 +607,8 @@
 	"thai": "หมูเปรี้ยวหวาน",
 	"english": "SWEET AND SOUR PORK",
 	"chinese": "古老肉",
-	"price": " 320 ",
-	"class": "",
+	"price": "320",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 69,
@@ -616,8 +616,8 @@
 	"thai": "เนื้อกวางผัดซอสแดง",
 	"english": "DEER MEAT WITH GINGER",
 	"chinese": "姜葱鹿柳",
-	"price": " MARKET PRICE ",
-	"class": "",
+	"price": "MARKET PRICE",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 70,
@@ -625,8 +625,8 @@
 	"thai": "เนื้อเต๋าผัดพริกไทยดำ",
 	"english": "STIR FRIED WITH BEEF BLACK PEPPER",
 	"chinese": "黑椒牛粒",
-	"price": " 580 ",
-	"class": " spf ",
+	"price": "580",
+	"cls": "spf",
 	"img": 1
 }, {
 	"id": 71,
@@ -634,8 +634,8 @@
 	"thai": "ปาท่องโก๋ทอดมันกุ้ง",
 	"english": "SALAD DRESSING WITH PRAWN",
 	"chinese": "沙律油条",
-	"price": " 300 ",
-	"class": " spf ",
+	"price": "300",
+	"cls": "spf",
 	"img": 1
 }, {
 	"id": 72,
@@ -643,8 +643,8 @@
 	"thai": "ยำแมงกะพรุน",
 	"english": "JELLYFISH SPICY SALAD",
 	"chinese": "凉拌海蜇花",
-	"price": " 180 ",
-	"class": "",
+	"price": "180",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 73,
@@ -652,8 +652,8 @@
 	"thai": "เต้าหู้ผัดพริกเกลือ",
 	"english": "SALTED&PEPPER TOFU",
 	"chinese": "椒盐豆腐",
-	"price": " 220 ",
-	"class": " cr+spf ",
+	"price": "220",
+	"cls": "cr+spf",
 	"img": 1
 }, {
 	"id": 74,
@@ -661,8 +661,8 @@
 	"thai": "ออเดิร์ฟ",
 	"english": "HUAI KHWANG PLATTER",
 	"chinese": "辉煌拼盘",
-	"price": " 2,500 ",
-	"class": " spf ",
+	"price": "2,500",
+	"cls": "spf",
 	"img": 1
 }, {
 	"id": 75,
@@ -670,8 +670,8 @@
 	"thai": "ปลาเงินทอดกรอบ",
 	"english": "CRISPY SILVER BABY FISH",
 	"chinese": "酥炸银鱼",
-	"price": " 250 ",
-	"class": " sf ",
+	"price": "250",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 76,
@@ -679,8 +679,8 @@
 	"thai": "กุ้งกรอบไข่เค็มแดง",
 	"english": "CRISPY PRAWN",
 	"chinese": "辉煌黄金虾球",
-	"price": " 300 ",
-	"class": " sf ",
+	"price": "300",
+	"cls": "sf",
 	"img": 1
 }, {
 	"id": 77,
@@ -688,8 +688,8 @@
 	"thai": "บร็อคโคลี่เจี๋ยนหน่อไม้ทะเล",
 	"english": "SEA ASPRAGUS WITH BROCCOLI",
 	"chinese": "海笋扒西兰花",
-	"price": " 380 ",
-	"class": " spf ",
+	"price": "380",
+	"cls": "spf",
 	"img": 1
 }, {
 	"id": 78,
@@ -697,8 +697,8 @@
 	"thai": "ผัดยอดมะระ",
 	"english": "STIR-FRIED CHAYOTE",
 	"chinese": "清炒金瓜苗",
-	"price": " 180 ",
-	"class": "",
+	"price": "180",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 79,
@@ -706,8 +706,8 @@
 	"thai": "หอยเชลล์ผัดบร็อคโคลี่",
 	"english": "BROCCOLI SCALLOP",
 	"chinese": "西兰花带子",
-	"price": " 688 ",
-	"class": "",
+	"price": "688",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 80,
@@ -715,8 +715,8 @@
 	"thai": "กระเจี๊ยบวาซาบิ",
 	"english": "OKRA WASABI",
 	"chinese": "芥末冷秋葵",
-	"price": " 180 ",
-	"class": "",
+	"price": "180",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 81,
@@ -724,8 +724,8 @@
 	"thai": "ผัดหน่อไม้ฝรั่ง",
 	"english": "STIR FRIED ASPARAGUS",
 	"chinese": "清炒露笋",
-	"price": " 190 ",
-	"class": "",
+	"price": "190",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 82,
@@ -733,8 +733,8 @@
 	"thai": "หน่อไม้ราดเนื้อปู",
 	"english": "FRESH CRAB MEAT WITH ASPARAGUS",
 	"chinese": "鲜蟹肉扒芦笋",
-	"price": " 380 ",
-	"class": " spf ",
+	"price": "380",
+	"cls": "spf",
 	"img": 1
 }, {
 	"id": 83,
@@ -742,8 +742,8 @@
 	"thai": "ซอสฟักทองเต้าหู้",
 	"english": "TOFU PUMPKIN SAUCE",
 	"chinese": "金瓜豆腐",
-	"price": " 300 ",
-	"class": " cr+spf ",
+	"price": "300",
+	"cls": "cr+spf",
 	"img": 1
 }, {
 	"id": 84,
@@ -751,8 +751,8 @@
 	"thai": "ฟักทองผัดเห็ดรวม",
 	"english": "WOK FRIED PUMPKIN",
 	"chinese": "野姑炒金瓜",
-	"price": " 180 ",
-	"class": " spf ",
+	"price": "180",
+	"cls": "spf",
 	"img": 1
 }, {
 	"id": 85,
@@ -760,8 +760,8 @@
 	"thai": "แตงกวาญี่ปุ่นดอง",
 	"english": "PICKLED CUCUMBER",
 	"chinese": "腌黄瓜",
-	"price": " 200 ",
-	"class": "",
+	"price": "200",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 86,
@@ -769,8 +769,8 @@
 	"thai": "ถั่วพูผัดซอสสิงคโปร์",
 	"english": "SINGAPORE STYLE CHILLI WIND BEAN",
 	"chinese": "叁吧四面豆",
-	"price": " 180 ",
-	"class": " cr+spf ",
+	"price": "180",
+	"cls": "cr+spf",
 	"img": 1
 }, {
 	"id": 87,
@@ -778,8 +778,8 @@
 	"thai": "เห็ดไป่ลิ่งผัดคะน้าฮ่องกง",
 	"english": "BAI LING GU KAI LAN",
 	"chinese": "百灵菇芥兰",
-	"price": " 250 ",
-	"class": " spf ",
+	"price": "250",
+	"cls": "spf",
 	"img": 1
 }, {
 	"id": 88,
@@ -787,8 +787,8 @@
 	"thai": "หอยเป่าฮื้อคะน้าฮ่องกง",
 	"english": "SLICED ABALONE WITH VEGGIE",
 	"chinese": "贵妃鲍时菜",
-	"price": " 380 ",
-	"class": " cr+sf+sfr ",
+	"price": "380",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 89,
@@ -796,8 +796,8 @@
 	"thai": "ผัดคะน้าฮ่องกง",
 	"english": "HONG KONG KAI LAN",
 	"chinese": "蒜蓉香港芥蓝",
-	"price": " 180 ",
-	"class": "",
+	"price": "180",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 90,
@@ -805,8 +805,8 @@
 	"thai": "ผักโขมราดไข่สามสหาย",
 	"english": "SPINACH WITH THREE COMPANION EGGS",
 	"chinese": "金银蛋苋菜",
-	"price": " 220 ",
-	"class": "",
+	"price": "220",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 91,
@@ -814,8 +814,8 @@
 	"thai": "กะหล่ำปลีผัดน้ำปลา",
 	"english": "STIR-FRIED CABBAGE WITH FISH SAUCE",
 	"chinese": "味露炒高丽菜",
-	"price": " 180 ",
-	"class": "",
+	"price": "180",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 92,
@@ -823,8 +823,8 @@
 	"thai": "ผักบุ้งไฟแดง",
 	"english": "STIR-FRIED CHINESE MORNING GLORY",
 	"chinese": "叁吧空心菜",
-	"price": " 180 ",
-	"class": "",
+	"price": "180",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 93,
@@ -832,8 +832,8 @@
 	"thai": "ผักกระเฉดไฟแดง",
 	"english": "STIR-FRIED WATER MIMOSA WITH CHILLIS",
 	"chinese": "泰式含羞草",
-	"price": " 200 ",
-	"class": "",
+	"price": "200",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 94,
@@ -841,8 +841,8 @@
 	"thai": "ผัดพริก 3 สี",
 	"english": "THREE CHILLI WITH BLACK BEAN SAUCE",
 	"chinese": "彩椒鼓汁",
-	"price": " 180 ",
-	"class": " spf ",
+	"price": "180",
+	"cls": "spf",
 	"img": 1
 }, {
 	"id": 95,
@@ -850,8 +850,8 @@
 	"thai": "ข้าวหอมมะลิอบปู",
 	"english": "STEAM CRAB WITH JASMINE GOLDEN RICE",
 	"chinese": "螃蟹黄金炒饭",
-	"price": " 1,800 ",
-	"class": " cr+sf+sfr ",
+	"price": "1,800",
+	"cls": "cr+sf+sfr",
 	"img": 1
 }, {
 	"id": 96,
@@ -859,8 +859,8 @@
 	"thai": "ข้าวผัดปูห้วยขวาง",
 	"english": "HUAI KHWANG CRAB FRIED RICE",
 	"chinese": "辉煌蟹肉炒饭",
-	"price": " 380 ",
-	"class": "",
+	"price": "380",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 97,
@@ -868,8 +868,8 @@
 	"thai": "ข้าวผัดไข่",
 	"english": "EGG FRIED RICE",
 	"chinese": "蛋炒饭",
-	"price": " 160 ",
-	"class": "",
+	"price": "160",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 98,
@@ -877,8 +877,8 @@
 	"thai": "ข้าวผัดปลาเค็ม",
 	"english": "FRIED RICE WITH SALTED FISH",
 	"chinese": "咸鱼炒饭",
-	"price": " 180 ",
-	"class": "",
+	"price": "180",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 99,
@@ -886,8 +886,8 @@
 	"thai": "ผัดหมี่ฮ่องกงทะเล",
 	"english": "HONG KONG SEAFOOD NOODLES",
 	"chinese": "香港海鲜面",
-	"price": " 200 ",
-	"class": " spf+sf ",
+	"price": "200",
+	"cls": "spf+sf",
 	"img": 1
 }, {
 	"id": 100,
@@ -895,17 +895,17 @@
 	"thai": "ผัดหมี่ฮ่องกง\/เนื้อปู",
 	"english": "BRAISED YEE MEIN WITH CRAB MEAT",
 	"chinese": "蟹肉焖伊面",
-	"price": " 600 ",
-	"class": "",
+	"price": "600",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 101,
 	"nu": 101,
 	"thai": "xoเส้นใหญ่ซีฟู้ด",
-	"english": "SEAFOOD HOFUN XO ",
+	"english": "SEAFOOD HOFUN XO",
 	"chinese": "X0海鲜河粉",
-	"price": " 280 ",
-	"class": "",
+	"price": "280",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 102,
@@ -913,8 +913,8 @@
 	"thai": "กุ้งผัดซอสxo",
 	"english": "STIR FRIED PRAWN WITH XO SAUCE",
 	"chinese": "XO菠萝虾球",
-	"price": " 350 ",
-	"class": " spf ",
+	"price": "350",
+	"cls": "spf",
 	"img": 1
 }, {
 	"id": 103,
@@ -922,8 +922,8 @@
 	"thai": "ข้าวผัดสับปะรด",
 	"english": "PINEAPPLE FRIED RICE WITH SEAFOOD",
 	"chinese": "凤梨海鲜炒饭",
-	"price": " 300 ",
-	"class": " spf ",
+	"price": "300",
+	"cls": "spf",
 	"img": 1
 }, {
 	"id": 104,
@@ -931,8 +931,8 @@
 	"thai": "แปะก๊วยเผือกหวาน",
 	"english": "GINKGO SWEET MASHED TARO",
 	"chinese": "金瓜椰子芋泥",
-	"price": " 188 ",
-	"class": " spf+de ",
+	"price": "188",
+	"cls": "spf+de",
 	"img": 1
 }, {
 	"id": 105,
@@ -940,8 +940,8 @@
 	"thai": "ผลไม้รวม",
 	"english": "TROPICAL FRUITS PLATTER",
 	"chinese": "热带水果盘",
-	"price": " 388 ",
-	"class": "",
+	"price": "388",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 106,
@@ -949,8 +949,8 @@
 	"thai": "สาคูเมล่อน",
 	"english": "SAGO MELON",
 	"chinese": "蜜瓜西米露",
-	"price": " 80 ",
-	"class": "",
+	"price": "80",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 107,
@@ -958,8 +958,8 @@
 	"thai": "เผือกหิมะ",
 	"english": "CRISPY SNOW TARO",
 	"chinese": "翻沙芋头",
-	"price": " 80 ",
-	"class": "",
+	"price": "80",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 108,
@@ -967,8 +967,8 @@
 	"thai": "บัวลอยน้ำขิง",
 	"english": "SESAME DUMPLING IN GINGER SOUP",
 	"chinese": "姜汁汤圆",
-	"price": " 60 ",
-	"class": "",
+	"price": "60",
+	"cls": "",
 	"img": 0
 }, {
 	"id": 109,
@@ -976,7 +976,7 @@
 	"thai": "ข้าวเหนียวมะม่วง",
 	"english": "MANGO AND STICKY RICE",
 	"chinese": "芒果糯米饭",
-	"price": " 150 ",
-	"class": "",
+	"price": "150",
+	"cls": "",
 	"img": 0
 }]
