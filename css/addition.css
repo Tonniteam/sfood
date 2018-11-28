@@ -175,8 +175,30 @@
 }
 
 /* menu */
-.vertical-img{
+.filter-wrapper {
+    margin-bottom: 20px;
+}
+
+ul.filter-wrapper li{
+	background-color: orangered;
+	border-radius: 10px;
+}
+
+ul.filter-wrapper li a{
 	
+	color: orangered;
+	background: white;
+}
+
+.filter-wrapper li a:hover, .filter-wrapper li a:focus{
+	color: white;
+	/* border: 1px solid orangered; */
+	background: orangered;
+	border-radius: 10px;
+}
+
+#gallery h3{
+	font-family: "arial narrow";
 }
 
 /* footer */
